@@ -11,3 +11,7 @@ When doing so and not providing "redisOptions", bullMQ fails to get a redis vers
 3. See the error: "TypeError: Invalid Version: null"
 4. Uncomment the "workaround" in the code and run again
 5. See no error.
+
+## BullMQ issue
+
+<https://github.com/taskforcesh/bullmq/issues/1704>
